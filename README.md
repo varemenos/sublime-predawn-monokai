@@ -1,4 +1,4 @@
-sublime-predawn-monokai
+Predawn Monokai for Sublime Text
 =======================
 
-A fork of flatland monokai for the predawn UI
+A fork of Flatland Monokai created for the predawn UI
